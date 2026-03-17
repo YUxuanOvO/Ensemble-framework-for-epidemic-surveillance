@@ -4,9 +4,9 @@ This repository contains data, simulation code, and algorithms, including compar
 
 "Monitoring the time-varying process of infectious disease using an ensemble framework of modified SEIR model and machine learning-based control chart."
 
-Overview
+**Overview**
 
-— The repository provides:
+The repository provides:
 
 — Epidemiological data used for modeling and validation.
 
